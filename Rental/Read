@@ -1,1 +1,1 @@
-
+This dataset records bike sharing data, including date, season, year, month, holiday status, weekday, and working day status. It also includes weather conditions (weathersit), temperature (temp), "feels like" temperature (atemp), humidity (hum), and windspeed. Furthermore, it provides counts of casual and registered users renting bikes, which can be used to analyze bike usage trends and factors influencing it.
