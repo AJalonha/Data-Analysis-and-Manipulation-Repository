@@ -1,1 +1,2 @@
 
+This dataset captures the delivery time (in an unspecified unit, possibly hours or minutes) and the corresponding sorting time (in minutes) for a set of deliveries. It can be used to analyze the relationship between delivery time and sorting time, helping to understand the efficiency of the delivery process and potentially make improvements based on this data.
