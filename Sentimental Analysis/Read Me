@@ -1,1 +1,3 @@
 
+
+This dataset contains social media data related to political discussions, including candidate mentions, sentiment, and relevance. It includes columns such as candidate names, sentiment scores, and tweet metadata like retweet count and timestamps. The data is used for sentiment analysis and potentially classifying the relevance of political content in tweets.
