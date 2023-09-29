@@ -1,1 +1,1 @@
-
+This dataset records information related to forest fires, including coordinates (X, Y), the month, day of the week, and various meteorological parameters such as FFMC, DMC, DC, ISI, temperature, relative humidity (RH), wind speed, rain, and the area affected by fires. It appears to represent different instances of forest fire occurrences, each with associated weather and location data for analysis or prediction purposes.
