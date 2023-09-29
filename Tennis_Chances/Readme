@@ -1,1 +1,4 @@
 
+
+This dataset contains weather-related information (Outlook, Temperature, Humidity, Wind) and a binary target variable (Play) indicating whether tennis can be played (yes) or not (no) on a given day. It comprises varying weather conditions, and the goal is to predict tennis suitability based on weather factors.
+
